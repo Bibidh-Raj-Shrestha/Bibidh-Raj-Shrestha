@@ -1,37 +1,85 @@
-# 💫 About Me:
-- 🎓 BIM student with a strong interest in programming fundamentals and problem-solving  <br>
-- 🌐 Building web applications with React, TypeScript, JavaScript, HTML, CSS, and Tailwind CSS  <br>
-- ⚙️ Exploring backend development with PHP and SQL  <br>
-- 🧠 Focused on understanding core concepts, writing clean code, and solving problems rather than only learning tools  <br>
-- 🌱 Continuously learning and expanding my skills in software development  <br>
-- 📈 Committed to consistent improvement, discipline, and long-term growth  <br>
+# Hi 👋, I'm Bibidh Raj Shrestha
 
+### BIM Student | Web Developer in Progress | Problem Solver
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/bibidhrajshrestha17/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bibidhrajshrestha/)
-
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Bibidh-Raj-Shrestha&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Bibidh-Raj-Shrestha&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bibidh-Raj-Shrestha&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+- 🎓 I'm currently pursuing **Bachelor of Information Management (BIM)**
+- 🌐 I'm currently building **web applications with React, TypeScript, and Tailwind CSS**
+- ⚙️ I'm exploring **backend development with PHP and SQL**
+- 🧠 I'm focused on **programming fundamentals, problem-solving, and understanding concepts deeply**
+- 🌱 I'm continuously learning and improving my **software development skills**
+- 💬 Ask me about **React, TypeScript, JavaScript, PHP, SQL, and web development**
+- ⚡ Fun fact: **I like building things while learning how they actually work**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Bibidh-Raj-Shrestha&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Connect with me
+
+<p align="center">
+  <a href="https://www.facebook.com/bibidhrajshrestha17/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://www.instagram.com/bibidhrajshrestha/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://github.com/Bibidh-Raj-Shrestha" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
+---
+
+### Languages & Tools
+
+<p align="center">
+  <!-- Programming -->
+  <b>Programming:</b>
+  <a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://skillicons.dev/icons?i=c" alt="C" width="30" height="30"/></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java" width="30" height="30"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="30" height="30"/></a>
+  <a href="https://www.php.net/" target="_blank"><img src="https://skillicons.dev/icons?i=php" alt="PHP" width="30" height="30"/></a>
+</p>
+
+<p align="center">
+  <!-- Frontend -->
+  <b>Frontend:</b>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="30" height="30"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="30" height="30"/></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" width="30" height="30"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="30" height="30"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="30" height="30"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="30" height="30"/></a>
+</p>
+
+<p align="center">
+  <!-- Backend / Database -->
+  <b>Backend / Database:</b>
+  <a href="https://www.php.net/" target="_blank"><img src="https://skillicons.dev/icons?i=php" alt="PHP" width="30" height="30"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="SQL / MySQL" width="30" height="30"/></a>
+</p>
+
+<p align="center">
+  <!-- Tools -->
+  <b>Tools:</b>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="30" height="30"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="30" height="30"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="30" height="30"/></a>
+</p>
+
+---
+
+### What I'm Building & Learning Next
+
+- Build more complete **React + TypeScript applications**
+- Continue improving **backend development with PHP and SQL**
+- Learn **Next.js** and move toward full-stack web development
+- Strengthen **DSA, databases, operating systems, and software development fundamentals**
+- Build practical projects that demonstrate real problem-solving skills
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bibidh-Raj-Shrestha&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bibidh-Raj-Shrestha&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Bibidh-Raj-Shrestha&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
+
+---
